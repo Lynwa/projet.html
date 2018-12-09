@@ -1,3 +1,4 @@
+<style>
 html, body {
 padding: 50px;
 }
@@ -27,8 +28,8 @@ text-decoration: underline;
 th{
 text-align: center;
 }
-#header{width: 100%;
-margin: 0 auto;
+#header{
+margin:  auto;
 position: relative;
 padding: 10px;
 background: #7f9183;
@@ -42,7 +43,7 @@ border: 1px;
 border-style: solid;
 float: left;
 display: block;
-margin: 0 auto;
+margin: 2 auto;
 }
 #center{
 width: auto;
@@ -52,13 +53,12 @@ border: 1px;
 border-style: solid;
 margin-left: 165px!important;
 padding: 10px;
-margin: 0 auto;
+margin: 2 auto;
 }
 #footer{
 background-color: #b5b29f;
 clear: both;
-margin: 0 auto;
-width: 100%;
+margin: 2 auto;
 height: inherit;
 position: relative;
 border: 1px;
